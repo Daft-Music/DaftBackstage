@@ -25,9 +25,9 @@ menu bar and starts with your Mac.
 The app is signed with a Developer ID and notarized by Apple. It is distributed here rather than
 on the App Store because capturing system audio is not something a sandboxed app is allowed to do.
 
-## What's new in 3.2
+## What's new in 3.7
 
-- Fixed crackling sound on some Core Audio devices.
+- Improved AirPlay behavior.
 
 ## Updating
 
