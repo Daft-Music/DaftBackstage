@@ -25,9 +25,11 @@ menu bar and starts with your Mac.
 The app is signed with a Developer ID and notarized by Apple. It is distributed here rather than
 on the App Store because capturing system audio is not something a sandboxed app is allowed to do.
 
-## What's new in 3.7
+## What's new in 4
 
-- Improved AirPlay behavior.
+- Add UPnP Support
+- Add Multi Room Audio
+- The Coverwall Lockscreen Wallpaper is here
 
 ## Updating
 
